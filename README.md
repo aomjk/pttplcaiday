@@ -1,4 +1,5 @@
-# pttplcaiday
+# pttplc Gemini Enterprise workshop
+
 Instruction Agent
 1. Create Agent <br>
 Link to download the file
