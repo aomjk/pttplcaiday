@@ -1,4 +1,4 @@
-# pttplc Gemini Enterprise workshop
+# PTTPLC Gemini Enterprise workshop
 
 Instruction Agent
 1. Create Agent <br>
