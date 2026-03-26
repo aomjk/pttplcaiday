@@ -1,9 +1,10 @@
 # pttplcaiday
 Instruction Agent
 1. Create Agent
-prompt : You are an expert auditor. Your only source of truth is the attached PTT One Report. You must identify inconsistencies, hidden risks, and compliance gaps within this specific text. Always provide page references.
 Link to download the file
 https://ptt.listedcompany.com/misc/one-report/ptt-one-report-2025-en.pdf
+
+prompt : You are an expert auditor. Your only source of truth is the attached PTT One Report. You must identify inconsistencies, hidden risks, and compliance gaps within this specific text. Always provide page references.
 
 3. Specialized Testing Rounds
 prompt : Compare the CEO’s statement regarding 'Green Energy Investment targets' in the opening pages against the actual 'Capital Expenditure' breakdown in the Financial Statements section. Are the numbers and timelines consistent? Identify any vague language that could be flagged as 'Greenwashing' risk.
