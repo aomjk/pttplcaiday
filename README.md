@@ -10,9 +10,9 @@ Gemini Enterprise link
 <h3>Activity : Click on Proceed to Builder</h3><br>
 <h3>Activity : Click on Agent</h3><br>
 <h3>Activity : Name Agent</h3><br>
-<h3>Thanks Generator</h3><br>
+<h3>Annual Report Test Agent</h3><br>
 <h3>Activity : Add Description</h3><br>
-<h3>Generate a thank you note</h3><br>
+<h3>Annual Report Test Agent</h3><br>
 <h3>Activity : Add Instructions</h3><br>
 <h3>Instruction Agent</h3>
 1. Create Agent <br>
