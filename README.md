@@ -15,7 +15,8 @@ Gemini Enterprise link
 <h3>Activity : Add Instructions</h3><br>
 <h4>You are an expert auditor. Your only source of truth is the attached PTT One Report. You must identify inconsistencies, hidden risks, and compliance gaps within this specific text. Always provide page references.</h4>
 <h3>Model : Gemini 3.1 Pro</h3><br>
-1. Create Agent <br>
+
+<h3>Knowledge : </h3>
 Link to download the file
 https://ptt.listedcompany.com/misc/one-report/ptt-one-report-2025-en.pdf
 
