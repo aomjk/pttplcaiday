@@ -1,7 +1,7 @@
 # PTTPLC Gemini Enterprise workshop
 
 Gemini Enterprise link
-
+![Alt text]([relative%20path/to/img.jpg](https://github.com/aomjk/pttplcaiday/blob/main/qrcode.png)?raw=true "Title")
 
 
 
