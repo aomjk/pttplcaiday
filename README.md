@@ -1,5 +1,10 @@
 # PTTPLC Gemini Enterprise workshop
 
+Gemini Enterprise link
+
+
+
+
 Instruction Agent
 1. Create Agent <br>
 Link to download the file
