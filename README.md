@@ -6,15 +6,15 @@ Gemini Enterprise link
 
 
 <h2>Create an Agent</h2><br>
-Activity : Click on Create Agent<br>
-Activity : Click on Proceed to Builder<br>
-Activity : Click on Agent<br>
-Activity : Name Agent<br>
-Thanks Generator<br>
-Activity : Add Description<br>
-Generate a thank you note<br>
-Activity : Add Instructions<br>
-Instruction Agent
+<h3>Activity : Click on Create Agent</h3><br>
+<h3>Activity : Click on Proceed to Builder</h3><br>
+<h3>Activity : Click on Agent</h3><br>
+<h3>Activity : Name Agent</h3><br>
+<h3>Thanks Generator</h3><br>
+<h3>Activity : Add Description</h3><br>
+<h3>Generate a thank you note</h3><br>
+<h3>Activity : Add Instructions</h3><br>
+<h3>Instruction Agent</h3>
 1. Create Agent <br>
 Link to download the file
 https://ptt.listedcompany.com/misc/one-report/ptt-one-report-2025-en.pdf
