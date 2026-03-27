@@ -4,6 +4,8 @@ Gemini Enterprise link
 
 <img width="512" height="512" alt="qrcode" src="https://github.com/user-attachments/assets/4da2b85d-25e9-4f96-a2cb-ac5cf2cd68b9" />
 
+Link to download the file https://ptt.listedcompany.com/misc/one-report/ptt-one-report-2025-en.pdf<br>
+
 
 <h2>Create an Agent</h2><br>
 <h3>Activity : Click on Create Agent</h3><br>
