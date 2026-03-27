@@ -19,8 +19,7 @@ Link to download the file https://ptt.listedcompany.com/misc/one-report/ptt-one-
 <h3>Model : Gemini 3.1 Pro</h3><br>
 
 <h3>Knowledge : </h3>
-Link to download the file
-https://ptt.listedcompany.com/misc/one-report/ptt-one-report-2025-en.pdf
+Upload the file ptt-one-report-2025-en.pdf
 
 2. Specialized Testing Rounds<br>
 prompt : Compare the CEO’s statement regarding 'Green Energy Investment targets' in the opening pages against the actual 'Capital Expenditure' breakdown in the Financial Statements section. Are the numbers and timelines consistent? Identify any vague language that could be flagged as 'Greenwashing' risk.
