@@ -5,7 +5,15 @@ Gemini Enterprise link
 <img width="512" height="512" alt="qrcode" src="https://github.com/user-attachments/assets/4da2b85d-25e9-4f96-a2cb-ac5cf2cd68b9" />
 
 
-
+Create an Agent<br>
+Activity : Click on Create Agent<br>
+Activity : Click on Proceed to Builder<br>
+Activity : Click on Agent<br>
+Activity : Name Agent<br>
+Thanks Generator<br>
+Activity : Add Description<br>
+Generate a thank you note<br>
+Activity : Add Instructions<br>
 Instruction Agent
 1. Create Agent <br>
 Link to download the file
